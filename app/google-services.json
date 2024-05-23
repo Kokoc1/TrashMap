@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "168135376337",
+    "project_id": "trashmapdiplom",
+    "storage_bucket": "trashmapdiplom.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168135376337:android:e564375202a314871b34f0",
+        "android_client_info": {
+          "package_name": "com.example.diplommap2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXI7Ki7X7k16T-lFlyQoTd8KvcXSO1a9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
